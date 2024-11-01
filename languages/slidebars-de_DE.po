@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-09-15 16:04+0200\n"
+"PO-Revision-Date: 2017-09-15 16:42+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_CH\n"
+
+#: admin/components/mailchimp-form.php:12
+msgid "Stay updated on Slidebars"
+msgstr "Erfahre das Neuste über Slidebars"
+
+#: admin/components/mailchimp-form.php:14
+msgid "Email Address"
+msgstr "Email Adresse"
+
+#: admin/components/mailchimp-form.php:19
+msgid "First Name"
+msgstr "Vorname"
+
+#: admin/components/mailchimp-form.php:24
+msgid "Last Name"
+msgstr "Nachname"
+
+#: admin/components/mailchimp-form.php:33
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: admin/wksl-slidebars-settings.php:62 public/wksl-slidebars-sidebars.php:16
+#: public/wksl-slidebars-sidebars.php:18
+msgid "Slidebar"
+msgstr "Slidebar"
+
+#: admin/wksl-slidebars-settings.php:69
+msgid "Preview mode"
+msgstr "Vorschaumodus"
+
+#: admin/wksl-slidebars-settings.php:77
+msgid "Hide on"
+msgstr "Nicht anzeigen auf"
+
+#: admin/wksl-slidebars-settings.php:85
+msgid "Push content"
+msgstr "Inhalt verschieben"
+
+#: admin/wksl-slidebars-settings.php:93
+msgid "Content overlay"
+msgstr "Inhalt Overlay"
+
+#: admin/wksl-slidebars-settings.php:101
+msgid "Position"
+msgstr "Ausrichtung"
+
+#: admin/wksl-slidebars-settings.php:109
+msgid "Sidebar background"
+msgstr "Sidebar Hintergrund"
+
+#: admin/wksl-slidebars-settings.php:117
+msgid "Icon background"
+msgstr "Icon Hintergrund"
+
+#: admin/wksl-slidebars-settings.php:125
+msgid "Icon color"
+msgstr "Icon Farbe"
+
+#: admin/wksl-slidebars-settings.php:133
+msgid "Show Icon"
+msgstr "Icon anzeigen"
+
+#: admin/wksl-slidebars-settings.php:141
+msgid "Icon"
+msgstr "Icon"
+
+#: admin/wksl-slidebars-settings.php:149
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+#: admin/wksl-slidebars-settings.php:178
+msgid "Slidebar Settings"
+msgstr "Slidebar Einstellungen"
+
+#: admin/wksl-slidebars-settings.php:183
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/wksl-slidebars-settings.php:203
+msgid ""
+"Customize your Slidebar using the settings below. If you check preview mode, "
+"only logged in WordPress users will see the slidebar."
+msgstr ""
+"Diese Einstellungen erlauben es das Aussehen und die Funktionsweise der "
+"Slidebar anzupassen. Im Vorschaumodus wird die Slidebar nur für eingeloggte "
+"WordPress User angezeigt."
+
+#: admin/wksl-slidebars-settings.php:300
+msgid "left"
+msgstr "links"
+
+#: admin/wksl-slidebars-settings.php:301
+msgid "right"
+msgstr "rechts"
+
+#: admin/wksl-slidebars-settings.php:344
+msgid "Search icons by name..."
+msgstr "Suche nach Icons..."
+
+#: admin/wksl-slidebars-settings.php:346
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: admin/wksl-slidebars-settings.php:346 admin/wksl-slidebars-settings.php:354
+msgid "icons"
+msgstr "Icons"
+
+#: admin/wksl-slidebars-settings.php:354
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/wksl-slidebars-loader.php:37
+msgid ""
+"In preview mode, the slidebar is only visible to logged in WordPress Users."
+msgstr ""
+"Im Vorschaumodus ist die Slidebar nur für eingeloggte WordPress User "
+"sichtbar."
+
+#: includes/wksl-slidebars-loader.php:38
+msgid "Define all pages on which the slidebar should not be visible."
+msgstr ""
+"Wähle alle Seiten aus, auf denen diese Slidebar nicht angezeigt werden soll."
+
+#: includes/wksl-slidebars-loader.php:39
+msgid ""
+"Decide wether this slidebar should overlap or push the content of your "
+"website"
+msgstr ""
+"Entscheide ob diese Slidebar den Inhalt deiner Website überlappen oder zur "
+"Seite schieben soll."
+
+#: includes/wksl-slidebars-loader.php:40
+msgid ""
+"Creates a soft overlay over the main content while the slidebar is active."
+msgstr ""
+"Lenkt den Fokus durch einen leichten Overlay auf die Slidebar, wenn diese "
+"aktiv ist."
